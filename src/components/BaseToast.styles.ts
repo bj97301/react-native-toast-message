@@ -6,6 +6,8 @@ export const styles = StyleSheet.create({
   base: {
     width:340,
     flexDirection: 'row',
+    // height: HEIGHT,
+    // width: WIDTH,
     borderRadius: BORDER_RADIUS,
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.1,
