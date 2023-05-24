@@ -7,7 +7,7 @@ export const BORDER_RADIUS = 6;
 export const styles = StyleSheet.create({
   base: {
     flexDirection: 'row',
-    height: HEIGHT,
+    // height: HEIGHT,
     width: WIDTH,
     borderRadius: BORDER_RADIUS,
     shadowOffset: { width: 0, height: 0 },
