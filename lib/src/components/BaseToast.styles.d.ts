@@ -1,6 +1,7 @@
 export declare const BORDER_RADIUS = 6;
 export declare const styles: {
     base: {
+        width: string;
         flexDirection: "row";
         borderRadius: number;
         shadowOffset: {
