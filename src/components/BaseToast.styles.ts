@@ -1,5 +1,7 @@
 import { StyleSheet } from 'react-native';
 
+export const HEIGHT = 60;
+export const WIDTH = 340;
 export const BORDER_RADIUS = 6;
 
 export const styles = StyleSheet.create({
