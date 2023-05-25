@@ -4,7 +4,7 @@ export declare const BORDER_RADIUS = 6;
 export declare const styles: {
     base: {
         flexDirection: "row";
-        width: string;
+        width: number;
         borderRadius: number;
         shadowOffset: {
             width: number;

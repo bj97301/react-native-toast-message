@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
   base: {
     flexDirection: 'row',
     // height: HEIGHT,
-    width: '340pt',
+    width: 340,
     borderRadius: BORDER_RADIUS,
     shadowOffset: { width: 0, height: 0 },
     shadowOpacity: 0.1,
