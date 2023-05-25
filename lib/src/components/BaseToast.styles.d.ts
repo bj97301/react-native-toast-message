@@ -1,10 +1,7 @@
-export declare const HEIGHT = 60;
-export declare const WIDTH = 340;
 export declare const BORDER_RADIUS = 6;
 export declare const styles: {
     base: {
         flexDirection: "row";
-        width: number;
         borderRadius: number;
         shadowOffset: {
             width: number;
